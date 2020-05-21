@@ -24,3 +24,7 @@ The first line contains number n (1 ≤ n ≤ 105). The following n line
 
 Output:
 Print n lines, which are system responses to the requests: OK in case of successful registration, or a prompt with a new name, if the requested name is already taken.
+
+
+
+Q3. string as input 1+2+3+4 or 1+2-3-4 upto 6 decimal digits. Find total.
