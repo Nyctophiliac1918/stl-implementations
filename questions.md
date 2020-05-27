@@ -32,3 +32,7 @@ Q3. string as input 1+2+3+4 or 1+2-3-4 upto 6 decimal digits. Find total.
 
 
 Q4. https://codeforces.com/problemset/problem/1358/B   Knowledge of Sets used
+
+
+
+Q5. https://codeforces.com/contest/1360/problem/C Vectors used to find if the numbers have same parity or |x-y|=1
