@@ -35,4 +35,4 @@ Q4. https://codeforces.com/problemset/problem/1358/B   Knowledge of Sets used
 
 
 
-Q5. https://codeforces.com/contest/1360/problem/C Vectors used to find if the numbers have same parity or |x-y|=1
+Q5. https://codeforces.com/contest/1360/problem/C Vectors used to find if the numbers have same parity or |x-y|=1, erase function also used.
