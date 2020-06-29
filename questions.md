@@ -36,3 +36,7 @@ Q4. https://codeforces.com/problemset/problem/1358/B   Knowledge of Sets used
 
 
 Q5. https://codeforces.com/contest/1360/problem/C Vectors used to find if the numbers have same parity or |x-y|=1, erase function also used.
+
+
+
+Q6. https://leetcode.com/problems/path-crossing/ Map used with key value in the form of coordinates, basically checking if coordinate visited already or not.
