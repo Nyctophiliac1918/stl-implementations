@@ -40,3 +40,7 @@ Q5. https://codeforces.com/contest/1360/problem/C Vectors used to find if the nu
 
 
 Q6. https://leetcode.com/problems/path-crossing/ Map used with key value in the form of coordinates, basically checking if coordinate visited already or not.
+
+
+
+Q7. https://codeforces.com/problemset/problem/31/A copying vector and sorting
