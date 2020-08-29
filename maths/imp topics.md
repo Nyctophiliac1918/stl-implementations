@@ -1,4 +1,4 @@
-#Important topics
+# Important topics
 
 1. Fast exponentiation.
 2. Solving linear recurrences using **transformation matrix**.
